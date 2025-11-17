@@ -24,7 +24,7 @@ This essay shows almost all the design elements you can employ on your essay pag
 class="right" 
 width="48%" 
 caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris." 
-image-path="images/mvh-history-stays.jpg" 
+image-path="images/nursesshocktherapy.jpg" 
 %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^note1]
