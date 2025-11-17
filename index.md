@@ -4,7 +4,7 @@ layout: base
 date: 2024-12-02
 ---
 
-# Welcome to Xanthan
+# Welcome to The Persistence of Insulin Shock Therapy
 
 {% include figure.html
   class="right"
