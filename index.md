@@ -24,7 +24,7 @@ ICT emerged in the 1930s and persisted across insane asylums across Europe and N
 
 Medical journals and books from the period reflect the debates that doctors had over the value of ICT as a treatment for chronic schizophrenia. Various studies from the 1940s came under scrutiny when critics explored the limitations of methodology. Much of the defense of ICT emerged from caretakers, those most intimately familiar with the demands of the therapy, whose personal experiences affirmed the value of ICT. History grants insight into the conditions that fueled both sides of this debate but also raises new questions about the persistence of this practice. While investigating this history in a time when patients’ access to insulin depends heavily on cost, supply, and access to endocrine specialists, the most striking aspect of ICT is not the grueling nature of the treatment, but rather the availability of insulin. As such, this blog seeks to answer both the question of why ICT remained so appealing to practitioners for decades and what conditions permitted its widespread, transnational practice in the mid-1900s.  
 
-Why was ICT Scientifically Viable in 1933? 
+**Why was ICT Scientifically Viable in 1933? **
 
 Modern medical knowledge lays bare the weakness of ICT as a treatment for schizophrenia, especially in comparison with therapies involving more specialized drugs. However, the product of insulin and understandings of its applications have both undergone immense change in the century since its initial production. In order to understand why ICT maintained such strong appeal to psychiatrists, it is crucial to understand how insulin came to be involved in psychiatry in the first place.  
 
@@ -48,7 +48,7 @@ To those within the discipline of psychiatry, the largest weakness of ICT was it
 
 Five years after the publication of “The Insulin Myth,” Bourne wrote another article reporting an unquantifiable mass disillusionment with ICT. He asserted that ICT was unequivocally a treatment of the 1930s and insisted that the emergence of tranquilizers like chlorpromazine rendered insulin obsolete in 1958.(22) However, as noted by Robert Freudenthal and Joanna Moncrieff, psychiatrists had been skeptical of ICT’s efficacy long before Bourne, and a loyal few practitioners would stand by the treatment well into the 1960s.(23) Indeed, that so many scientists defended the practice with no consensus on how or if it worked suggests that scientific validity was never the core of ICT’s appeal. In the 1930s, theory was the connective tissue between the accident of putting one schizophrenic patient in a coma and the seemingly curative results in repeated case studies. As alternative treatments emerged that demanded less attentiveness from caretakers, theoretical explanations could not sustain ICT on their own.  
 
-If ICT was not Scientific, how did it Legitimize Psychiatry? 
+**If ICT was not Scientific, how did it Legitimize Psychiatry? **
 
 Demonstrating why ICT seemed scientifically reasonable in the 1930s required contextualization within a pattern of biological treatment. Explaining how it earned such adamant support in the face of scientific scrutiny, on the other hand, warrants an exploration of how ICT remained procedurally distinct from other shock therapies. The historian Deborah Blythe Doroshow argues that the peculiarities of ICT – the atmosphere, the labor, the patient interaction – allowed for psychiatrists and nurses to experience ICT as an affective (if not provably effective) treatment for schizophrenia.(24) The process of administering and maintaining a patient through ICT demanded much of the staff and resources at psychiatric institutions, which dignified the treatment as a serious undertaking. This paper aims to highlight the ways in which ICT reinforced a paternalistic relationship between workers and patients by requiring increased control over diets, schedules, and even involuntary reactions to treatment.  
 
@@ -80,7 +80,7 @@ Today, public health initiatives have consolidated a list of symptoms common in 
 
 Workers in ICT units recorded patient actions that can be interpreted as resistance to the treatment in light of the revelation of their experience. One article in The American Journal of Nursing says that patients “conceal food or candy under their pillows, sheets, or mattresses to relieve the hunger which they feel during hypoglycemia.”(37) Consequently, checks for food in the patient‘s quarters became a routine recommendation.(38) Nurses also incorporated restraints in the ICT unit, although these assisted with containing voluntary and involuntary reactions. Another article notes that “a patient who becomes restless as consciousness clouds, needs restraint as a safeguard against rolling out of bed.”(39) However patients verbally responded to ICT after waking up from their comas, these actions suggest that they maintained some awareness of what pains the treatment would bring and tried to prepare for or prevent them against the wishes of staff. Psychiatrists, affirmed by their previous experiences restoring ICT patients and authorized to use a degree of force, dismissed patients’ concerns with the understanding that they would come to appreciate the treatment in time. As such, trauma associated with ICT did not delegitimize the practice but rather asserted that drastic change was possible with aggressive medical intervention as long as the psychiatrist’ authority reigned supreme.  
 
-Why was Insulin so Available? 
+**Why was Insulin so Available? **
 
 In interrogating how ICT persisted for as long as it did in psychiatric institutions, the question of insulin accessibility emerges. Looking to the past at a time when American diabetics only have access to expensive nongeneric insulin through endocrine specialists, it is astonishing that insulin availability was not a barrier to psychiatrists practicing ICT. As such, this history warrants a brief exploration of how the accessibility of insulin enabled ICT.  
 
@@ -102,28 +102,28 @@ The exact cost of insulin throughout the most popular era of ICT is difficult to
 
 Pharmaceutical companies lacked the capacity and understanding to produce human analogue insulin (a different process from animal-derived insulin production) until 1982. After this radical shift in the manufacturing process, American pharmaceutical companies constantly refreshed their patents using minor changes to the product to keep prices high, resulting in insulin’s current inaccessibility to patients.(50) This alignment of legal and scientific factors meant that there was a period of roughly two decades in which insulin was available at low costs in the United States. This period of accessibility emerged just as the scientific foundations for ICT shattered in the 1950s. As such, the abundance of insulin and professional sentiments of legitimacy were the last legs supporting ICT through the 1960s. 
 
-Conclusion 
+**Conclusion **
 
 This article is not about the dangers of medical accessibility. As demonstrated, the conditions that made insulin appealing as a treatment for schizophrenia were dynamic across decades of use. As noted by Harold Bourne, perhaps ICT’s most prominent critic at the height of its popularity, the state of medical knowledge and direction of psychiatry as a discipline created permissible conditions for the rise of insulin in asylums. The unique experience of administering ICT generated an enthusiasm that led many practitioners to defend the treatment in the face of scientific and ethical scrutiny. The availability of insulin throughout the mid-1900s facilitated the practice and supported its appeal to psychiatrists. The reign of ICT in psychiatric institutions reflects an infinitesimal alignment of corporate and professional interests, one that sometimes manifested in contention with scientific validity and patient safety.  
 
 
 Endnotes
 
-1  Hunter Gillies, “Hypoglycaemic Therapy In The Psychoses,” The British Medical Journal 1, no. 3989 (1937): 1254.
+1  Hunter Gillies, “Hypoglycaemic Therapy In The Psychoses,” _The British Medical Journal_ 1, no. 3989 (1937): 1254.
 
-2 Kingsley Jones, “Insulin Coma Therapy in Schizophrenia,” Journal of the Royal Society of Medicine 93 (March 2000): 147.
+2 Kingsley Jones, “Insulin Coma Therapy in Schizophrenia,” _Journal of the Royal Society of Medicine_ 93 (March 2000): 147.
 
-3  Douglas W. Hill and Frederick O. Howitt, Insulin: Its Production, Purification and Physiological Action (London: Hutchinson’s Scientific and Technical Publications, 1936), 9.
+3  Douglas W. Hill and Frederick O. Howitt, _Insulin: Its Production, Purification and Physiological Action_ (London: Hutchinson’s Scientific and Technical Publications, 1936), 9.
 
 4   Hill and Howitt, Insulin, 124.
 
-5  “Manfred Sakel, M.D.,” The British Medical Journal 2, no. 5058 (1957): 1439.
+5  “Manfred Sakel, M.D.,” _The British Medical Journal_ 2, no. 5058 (1957): 1439.
 
-6  Edward Shorter, “Sakel versus Meduna: different strokes, different styles of scientific discovery,” The journal of ECT, 25, no. 1(2009): 13.
+6  Edward Shorter, “Sakel versus Meduna: different strokes, different styles of scientific discovery,” _The journal of ECT_ 25, no. 1(2009): 13.
 
-7  Ralph Drake, “Insulin Shock Therapy in Psychoses,” Transactions of the Kansas Academy of Science 41 (1938): 253.  
+7  Ralph Drake, “Insulin Shock Therapy in Psychoses,” _Transactions of the Kansas Academy of Science_ 41 (1938): 253.  
 
-8  “Manfred Sakel, M.D.,” The British Medical Journal 2, no. 5058 (1957): 1439.
+8  “Manfred Sakel, M.D.,” _The British Medical Journal_ 2, no. 5058 (1957): 1439.
 
 9  Drake, “Insulin Shock Therapy in Psychoses,” 255.
 
@@ -131,9 +131,9 @@ Endnotes
 
 11 Jones, “Insulin Coma Therapy in Schizophrenia,” 149.
 
-12 Nailyn Rasool and Matthew Barkovich. “Neuroimaging in Neuro-Ophthalmology: Past, Present, and Future,” Journal of Neuro-Ophthalmology 45 (June 2025): 220.
+12 Nailyn Rasool and Matthew Barkovich. “Neuroimaging in Neuro-Ophthalmology: Past, Present, and Future,” _Journal of Neuro-Ophthalmology_ 45 (June 2025): 220.
 
-13  Don D. Jackson, “SCHIZOPHRENIA,” Scientific American 207, no. 2 (1962): 74.
+13  Don D. Jackson, “SCHIZOPHRENIA,” _Scientific American_ 207, no. 2 (1962): 74.
 
 14  Hill and Howitt, Insulin, 128.
 
@@ -141,26 +141,26 @@ Endnotes
 
 16  Gillies, “Hypoglycaemic Therapy In The Psychoses,” 1255.
 
-17  Andrew Scull, Desperate Remedies: Psychiatry’s Turbulent Quest to Cure Mental Illness (Harvard University Press, 2022), 116.
+17  Andrew Scull, _Desperate Remedies: Psychiatry’s Turbulent Quest to Cure Mental Illness_ (Harvard University Press, 2022), 116.
 
-18  Leonard Roy Frank, "Psychiatry's Unholy Trinity-Fraud, Fear, and Force: A Personal Account," IDEAS ON LIBERTY 52 (2002): 26.
+18  Leonard Roy Frank, "Psychiatry's Unholy Trinity-Fraud, Fear, and Force: A Personal Account," I_DEAS ON LIBERTY_ 52 (2002): 26.
 
 19  Harold Bourne, “The Insulin Myth,” The Lancet 262 (1953): 964.
 
-20  Robert Freudenthal and Joanna Moncrieff, “’A landmark in psychiatric progress’? The role of evidence in the rise and fall of insulin coma therapy,” History of 
-Psychiatry 33 (2022): 70.  
+20  Robert Freudenthal and Joanna Moncrieff, “’A landmark in psychiatric progress’? The role of evidence in the rise and fall of insulin coma therapy,” _History of 
+Psychiatry_ 33 (2022): 70.  
 
 21  Freudenthal and Moncrieff, “’A landmark in psychiatric progress’?” 71.
 
-22  Harold Bourne, ”Insulin Coma in Decline,” The American Journal of Psychiatry 114 (May 1958): 1015-1016.
+22  Harold Bourne, ”Insulin Coma in Decline,” _The American Journal of Psychiatry_ 114 (May 1958): 1015-1016.
 
 23  Freudenthal and Moncrieff, “’A landmark in psychiatric progress’?” 75.
 
-24  Deborah Blythe Doroshow, “Performing a Cure for Schizophrenia: Insulin Coma Therapy on the Wards,” Journal of the History of Medicine and Allied Sciences 62, no. 2 (2007): 219.
+24  Deborah Blythe Doroshow, “Performing a Cure for Schizophrenia: Insulin Coma Therapy on the Wards,” _Journal of the History of Medicine and Allied Sciences_ 62, no. 2 (2007): 219.
 
-25  Manfred Braun and Ellen Gilmore, “Advances in Insulin Coma Therapy,” The American Journal of Nursing 60, no. 11 (November 1960): 1628.  
+25  Manfred Braun and Ellen Gilmore, “Advances in Insulin Coma Therapy,” _The American Journal of Nursing_ 60, no. 11 (November 1960): 1628.  
 
-26  Joseph Wortis and Jeff Roberts, “Insulin Shock Treatment in the Psychoses,” The American Journal of Nursing 37, no. 5 (1937): 495.
+26  Joseph Wortis and Jeff Roberts, “Insulin Shock Treatment in the Psychoses,” _The American Journal of Nursing_ 37, no. 5 (1937): 495.
 
 27  Wortis and Roberts, “Insulin Shock Treatment in the Psychoses,” 496.
 
@@ -172,13 +172,13 @@ Psychiatry 33 (2022): 70.
 
 31  Doroshow, “Performing a Cure for Schizophrenia,” 214.
 
-32  Bernice Scharmer, “Insulin Shock Therapy,” The American Journal of Nursing 41, no. 10 (1941): 1156.
+32  Bernice Scharmer, “Insulin Shock Therapy,” _The American Journal of Nursing_ 41, no. 10 (1941): 1156.
 
 33  Braun and Gilmore, “Advances in Insulin Coma Therapy,” 1627. 
 
 34  “Low Blood Sugar (Hypoglycemia),” NHS Conditions, August 3, 2023, https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/#:~:text=Symptoms%20of%20low%20blood%20sugar&text=feeling%20hungry,sweating.
 
-35  Douaae Bouyaknouden, Teja N. Peddada, Nidhi Ravishankar, et al, “Neurological Prognostication After Hypoglycemic Coma: Role of Clinical and EEG Findings,” Neurocritical Care 37 (April 2022): 274.
+35  Douaae Bouyaknouden, Teja N. Peddada, Nidhi Ravishankar, et al, “Neurological Prognostication After Hypoglycemic Coma: Role of Clinical and EEG Findings,” _Neurocritical Care_ 37 (April 2022): 274.
 
 36  Frank, “Psychiatry’s Unholy Trinity,” 27.
 
@@ -188,17 +188,17 @@ Psychiatry 33 (2022): 70.
 
 39  Scharmer, ”Insulin Shock Therapy,” 1155.
 
-40  David R. Owens, Louis Monnier, Antonio Ceriello, and Geremia B. Bolli, “Insulin Centennial: Milestones Influencing the Development of Insulin Preparations since 1922.” Diabetes, Obesity & Metabolism 24, no. 1 (2022): 33.
+40  David R. Owens, Louis Monnier, Antonio Ceriello, and Geremia B. Bolli, “Insulin Centennial: Milestones Influencing the Development of Insulin Preparations since 1922.” _Diabetes, Obesity & Metabolism_ 24, no. 1 (2022): 33.
 
-41  James S. McGregor and R. A. Sandison, “Insulin Treatment Of Schizophrenia In Wartime,” The British Medical Journal 2, no. 4157 (1940): 310, 312.  
+41  James S. McGregor and R. A. Sandison, “Insulin Treatment Of Schizophrenia In Wartime,” _The British Medical Journal_ 2, no. 4157 (1940): 310, 312.  
 
-42  John Patrick Swann, “INSULIN: A Case Study in the Emergence Of Collaborative Pharmacomedical Research.” Pharmacy in History 28, no. 2 (1986): 65.
+42  John Patrick Swann, “INSULIN: A Case Study in the Emergence Of Collaborative Pharmacomedical Research.” _Pharmacy in History_ 28, no. 2 (1986): 65.
 
 43  Swann, “INSULIN,” 65-68. 
 
-44  "The Price Reductions on Iletin (Insulin, Lilly)," The American Journal of the Medical Sciences (1827-1924) 168, no. 2 (1924): 1.
+44  "The Price Reductions on Iletin (Insulin, Lilly)," _The American Journal of the Medical Sciences (1827-1924)_ 168, no. 2 (1924): 1.
 
-45  "Another Price Reduction: Iletin (Insulin, Lilly) Effective November 1st, 1924," The American Journal of the Medical Sciences (1827-1924) 168, no. 6 (1924): 1.
+45  "Another Price Reduction: Iletin (Insulin, Lilly) Effective November 1st, 1924," _The American Journal of the Medical Sciences (1827-1924)_ 168, no. 6 (1924): 1.
 Adjusting for inflation, these costs equate to roughly $9.48 and $29.37 respectively in 2025. 
 
 46  Swann, “INSULIN,” 73.
@@ -207,7 +207,7 @@ Adjusting for inflation, these costs equate to roughly $9.48 and $29.37 respecti
 
 48  Swann, “INSULIN,” 72.
 
-49  Jeffrey A. Singer and Michael F. Cannon, Drug Reformation: End Government’s Power to Require Prescriptions (Washington, D.C.: Cato Institute, 2020), 11.
+49  Jeffrey A. Singer and Michael F. Cannon, _Drug Reformation: End Government’s Power to Require Prescriptions _(Washington, D.C.: Cato Institute, 2020), 11.
 
-50  Anders Olson, Reed F. Beall, Ryan P. Knox, Sean S. Tu, Aaron S. Kesselheim, and William B. Feldman, “Patents and Regulatory Exclusivities on FDA-Approved Insulin Products: A Longitudinal Database Study, 1986–2019.” PLoS Medicine 20, no. 11 (2023): 1-2.
+50  Anders Olson, Reed F. Beall, Ryan P. Knox, Sean S. Tu, Aaron S. Kesselheim, and William B. Feldman, “Patents and Regulatory Exclusivities on FDA-Approved Insulin Products: A Longitudinal Database Study, 1986–2019.” _PLoS Medicine_ 20, no. 11 (2023): 1-2.
 
