@@ -9,10 +9,8 @@ date: 2024-12-02
 {% include figure.html
   class="right"
   width="33%"
-  caption="Xanthan chemical structure"
-  image-path="/assets/images/Xanthan.svg"
-  source-url="https://commons.wikimedia.org/wiki/File:Xanthan.svg"
-%}
+  caption="Nurses administer insulin to a patient through a nasal tube"
+  image-path="/assets/images/ICT-in-action.png" %}
 
 “The hypoglycemic treatment was begun on February 13, 1937, with the intramuscular injection of 24 units of insulin... The dose was increased by 8 units daily until February 18 with 64 units until she became comatose. The dose was continued daily, except on Sundays, until February 23, when she developed status epilepticus. At 7:25 a.m. on that day she had received 64 units of insulin. At 9 o’clock she was drowsy and at 9:15 sweats appeared on the face and chest. At 10:20 she became comatose... 
 
