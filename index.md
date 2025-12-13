@@ -1,15 +1,15 @@
 ---
-title: Xanthan home
+title: ICT Blog
 layout: base
 date: 2024-12-02
 ---
 
-# Welcome to The Persistence of Insulin Shock Therapy
+# Comas for a Cure: The Persistence of Insulin Shock Therapy in Psychiatric Institutions
 
 {% include figure.html
   class="right"
   width="33%"
-  caption="Nurses administer insulin to a patient through a nasal tube"
+  caption="Psychiatric staff administer insulin to a patient through a nasal tube"
   image-path="/assets/images/ictinaction.png" %}
 
 “The hypoglycemic treatment was begun on February 13, 1937, with the intramuscular injection of 24 units of insulin... The dose was increased by 8 units daily until February 18 with 64 units until she became comatose. The dose was continued daily, except on Sundays, until February 23, when she developed status epilepticus. At 7:25 a.m. on that day she had received 64 units of insulin. At 9 o’clock she was drowsy and at 9:15 sweats appeared on the face and chest. At 10:20 she became comatose... 
@@ -56,6 +56,12 @@ The American Journal for Nursing provides the best insight into the non-theoreti
 
 By all accounts, administering ICT required specialized labor. Patients could exhibit a range of distressing symptoms even if the treatment was proceeding as planned. In the hours between injection and the coma, patients displayed hunger, drowsiness, sweats, and tremors as standard symptoms of hypoglycemia. Nurses consequently had to recognize complications according to the “depth” of certain symptoms;(26) overcautious judgements would disrupt the expected course of therapy, and lack of due caution could kill the patient. The nurses and psychiatrists who contributed to The American Journal of Nursing consistently stated that nurses could acquire an eye for concerning and unconcerning symptoms through training in ICT units.(27) With sufficient preparation, a nurse was thought to be able to track the phases of the process through observing different symptoms in the patient. 
 
+{% include figure.html
+  class="left"
+  width="44%"
+  caption="A chart of symptoms by stage of ICT from The American Journal of Nursing"
+  image-path="/assets/images/ictsymptoms.png" %}
+
 Nurses were reportedly responsible for three to four patients at a time,(28) and the slow process of putting patients into comas required an isolated, quiet space. For these reasons, ICT had a dedicated unit in practicing hospitals. Compared to the more chaotic environment typical of psychiatric wards, ICT units had a “deliberately peaceful atmosphere,” complete with temperature control measures, soft music, and dim lights to keep patients comfortable and manageable.(29) The ICT unit was the closest a nurse in a psychiatric facility would come to the experience of working in a general hospital post-operation unit. By nature of the aggressive medical treatment, patients receiving ICT were immobile for hours at a time and less apt to speak upon waking up.  
 
 Doctors and nurses alike interpreted the experience of monitoring patients through their comas as emotionally intimate. Through interviews with retired psychiatric professionals, Doroshow finds that the efforts taken to ensure that patients remained relaxed fostered therapeutic relationships within ICT units. One doctor went so far as to compare nurses to surrogate mothers for their patients.(30) Such perspectives colored how workers interpreted patients’ reactions to treatment.  
@@ -63,6 +69,12 @@ Doctors and nurses alike interpreted the experience of monitoring patients throu
 Witnesses were not immune to the discomfort of forcing comas through hormonal intervention, but the juxtaposition between patient resistance prior to the treatment and patient acceptance in its wake inclined professionals to believe that the initial struggles were worth it for the outcome. One psychiatrist remembered being surrounded by patients responding to the first phase of ICT as being “in the midst of Hell.”(31) As the insulin brought patients’ blood-sugar levels low enough to disrupt brain function, patients trembled, sweated, moaned, and shouted before succumbing to the coma. After being awoken with sugar, patients exhibited much more subdued reactions. Many reported that they did not remember the experience.(32) Others, according to staff, expressed optimism and feelings of being reborn, which the workers regarded as a sign that the treatment had dispelled the sentiments of fear and suspicion characteristic of schizophrenia.(33) For observers, the difference in patients’ emotional states before and after the coma affirmed that the treatment, as severe as it seemed, was a rewarding experience. Those with the discipline to see ICT through therefore felt assured that the patient’s temporary suffering was worth the result. 
 
 Recapturing patients’ experience of ICT requires cross-analysis of different primary source materials. Professionals’ observations of patient behavior provide some insight into compliance and resistance, but only personal accounts of those who survived can reflect personal interpretations of the experience. Without discounting the potential for different human bodies to respond in unique ways to distinct forms of insulin, recent research on the impact of hypoglycemic comas may also inform about the extremeness of the treatment.  
+
+{% include figure.html
+  class="right"
+  width="30%"
+  caption="Leonard Roy Frank, a human rights activist who survived fifty ICT treatments and thirty-five ECT treatments in the 1960s"
+  image-path="/assets/images/leonardroyfrank.png" %}
 
 Today, public health initiatives have consolidated a list of symptoms common in hypoglycemia, the condition in which ICT patients would have spent hours at a time. The symptoms confirmed by nurses’ reports from the mid-1900s include hunger, anxiety, sweating, shaking, fatigue, blurry vision, and confusion.(34) Modern studies on people who have experienced hypoglycemic comas suggest that they can permanently impact physical markers of brain function like motor reflex in some cases.(35) Current medical understanding of hypoglycemia indicates ICT patients experienced severe degrees of suffering. Leonard Roy Frank, a survivor of ICT and ECT, affirmed the brutality of both in his personal account. Enduring fifty rounds of ICT following his internment in San Francisco in 1962, he accused psychiatric professionals of euphemizing the cruelties of the practcie and affirmed, “If insulin coma treatment is not a torture, nothing is.”(36)  
 
@@ -79,6 +91,12 @@ In 1940, The British Medical Journal published an article explaining how to make
 As soon as scientists at the University of Toronto successfully isolated insulin in 1921, pharmaceutical companies were aggressive in their attempts to corner national markets before competition could intercept customers. In the United States and Canada, Eli Lilly and Company capitalized on its early collaboration with the Toronto scientists to get ahead of its competitors and “distribute insulin on a much wider scale” than the scientists had planned.(42) Its tactics included distributing free insulin, restricting information about the manufacturing process, and fighting the university’s distribution of licenses to other pharmaceutical companies.(43) The company’s scientist was explicit in representing Eli Lilly’s desire to maintain a monopoly on insulin production, much to the confusion of the university’s pharmacologists.  
 
 Once Eli Lilly lost its exclusive license, it was diligent in its outreach to physicians. Advertisements in The American Journal of the Medical Sciences emphasize that the cost of Eli Lilly’s insulin had declined to almost a quarter of the original cost in the span of fifteen months because the company aimed to pass savings to their “patrons.”(44) By November 1924, fifty-unit vials of Eli Lilly’s insulin cost fifty cents; 200-unit vials cost $1.55.(45) These tactics proved successful for the most ambitious companies. During the first year of production, insulin accounted for fourteen percent of Eli Lilly’s total sales and half of their profits.(46) Allen & Hanburys, the first company to produce insulin for commercial use in the United Kingdom alongside Burroughs Wellcome, claimed to have produced ninety-five percent of the country’s insulin in 1923.(47) 
+
+{% include figure.html
+  class="left"
+  width="60%"
+  caption="An Eli Lilly advertisement on the front page of The American Journal of the Medical Sciences in 1924"
+  image-path="/assets/images/ictsymptoms.png" %}
 
 The exact cost of insulin throughout the most popular era of ICT is difficult to discern from available documentation. Legal documents, however, indicate that insulin prices stabilized in the 1950s. The original animal-derived insulin patent expired in the late 1950s, at which time any company could use the original method of production to sell an abundance of cheap insulin.(48) In the United States, the 1951 Durham-Humphrey Amendment distinguished between prescription and non-prescription medications. The amendment exempted drugs that had already been on the market with proven safety records from requiring prescriptions, meaning animal-derived insulin did not require prescriptions for purchase.(49)  
 
