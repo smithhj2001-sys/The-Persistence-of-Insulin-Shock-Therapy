@@ -58,7 +58,7 @@ By all accounts, administering ICT required specialized labor. Patients could ex
 
 {% include figure.html
   class="left"
-  width="44%"
+  width="60%"
   caption="A chart of symptoms by stage of ICT from The American Journal of Nursing"
   image-path="/assets/images/ictsymptoms.png" %}
 
@@ -94,9 +94,9 @@ Once Eli Lilly lost its exclusive license, it was diligent in its outreach to ph
 
 {% include figure.html
   class="left"
-  width="60%"
+  width="45%"
   caption="An Eli Lilly advertisement on the front page of The American Journal of the Medical Sciences in 1924"
-  image-path="/assets/images/ictsymptoms.png" %}
+  image-path="/assets/images/lillyad.png" %}
 
 The exact cost of insulin throughout the most popular era of ICT is difficult to discern from available documentation. Legal documents, however, indicate that insulin prices stabilized in the 1950s. The original animal-derived insulin patent expired in the late 1950s, at which time any company could use the original method of production to sell an abundance of cheap insulin.(48) In the United States, the 1951 Durham-Humphrey Amendment distinguished between prescription and non-prescription medications. The amendment exempted drugs that had already been on the market with proven safety records from requiring prescriptions, meaning animal-derived insulin did not require prescriptions for purchase.(49)  
 
