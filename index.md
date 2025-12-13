@@ -92,55 +92,106 @@ This article is not about the dangers of medical accessibility. As demonstrated,
 
 
 Endnotes
+
 1  Hunter Gillies, “Hypoglycaemic Therapy In The Psychoses,” The British Medical Journal 1, no. 3989 (1937): 1254.
+
 2 Kingsley Jones, “Insulin Coma Therapy in Schizophrenia,” Journal of the Royal Society of Medicine 93 (March 2000): 147.
+
 3  Douglas W. Hill and Frederick O. Howitt, Insulin: Its Production, Purification and Physiological Action (London: Hutchinson’s Scientific and Technical Publications, 1936), 9.
+
 4   Hill and Howitt, Insulin, 124.
+
 5  “Manfred Sakel, M.D.,” The British Medical Journal 2, no. 5058 (1957): 1439.
+
 6  Edward Shorter, “Sakel versus Meduna: different strokes, different styles of scientific discovery,” The journal of ECT, 25, no. 1(2009): 13.
+
 7  Ralph Drake, “Insulin Shock Therapy in Psychoses,” Transactions of the Kansas Academy of Science 41 (1938): 253.  
+
 8  “Manfred Sakel, M.D.,” The British Medical Journal 2, no. 5058 (1957): 1439.
+
 9  Drake, “Insulin Shock Therapy in Psychoses,” 255.
+
 10 Drake, “Insulin Shock Therapy in Psychoses,” 254.
+
 11 Jones, “Insulin Coma Therapy in Schizophrenia,” 149.
+
 12 Nailyn Rasool and Matthew Barkovich. “Neuroimaging in Neuro-Ophthalmology: Past, Present, and Future,” Journal of Neuro-Ophthalmology 45 (June 2025): 220.
+
 13  Don D. Jackson, “SCHIZOPHRENIA,” Scientific American 207, no. 2 (1962): 74.
+
 14  Hill and Howitt, Insulin, 128.
+
 15  Hill and Howitt, Insulin, vii.
+
 16  Gillies, “Hypoglycaemic Therapy In The Psychoses,” 1255.
+
 17  Andrew Scull, Desperate Remedies: Psychiatry’s Turbulent Quest to Cure Mental Illness (Harvard University Press, 2022), 116.
+
 18  Leonard Roy Frank, "Psychiatry's Unholy Trinity-Fraud, Fear, and Force: A Personal Account," IDEAS ON LIBERTY 52 (2002): 26.
+
 19  Harold Bourne, “The Insulin Myth,” The Lancet 262 (1953): 964.
-20  Robert Freudenthal and Joanna Moncrieff, “’A landmark in psychiatric progress’? The role of evidence in the rise and fall of insulin coma therapy,” History of Psychiatry 33 (2022): 70.  
+
+20  Robert Freudenthal and Joanna Moncrieff, “’A landmark in psychiatric progress’? The role of evidence in the rise and fall of insulin coma therapy,” History of 
+Psychiatry 33 (2022): 70.  
+
 21  Freudenthal and Moncrieff, “’A landmark in psychiatric progress’?” 71.
+
 22  Harold Bourne, ”Insulin Coma in Decline,” The American Journal of Psychiatry 114 (May 1958): 1015-1016.
+
 23  Freudenthal and Moncrieff, “’A landmark in psychiatric progress’?” 75.
+
 24  Deborah Blythe Doroshow, “Performing a Cure for Schizophrenia: Insulin Coma Therapy on the Wards,” Journal of the History of Medicine and Allied Sciences 62, no. 2 (2007): 219.
+
 25  Manfred Braun and Ellen Gilmore, “Advances in Insulin Coma Therapy,” The American Journal of Nursing 60, no. 11 (November 1960): 1628.  
+
 26  Joseph Wortis and Jeff Roberts, “Insulin Shock Treatment in the Psychoses,” The American Journal of Nursing 37, no. 5 (1937): 495.
+
 27  Wortis and Roberts, “Insulin Shock Treatment in the Psychoses,” 496.
+
 28  Wortis and Roberts, “Insulin Shock Treatment in the Psychoses,” 496.
+
 29  Doroshow, “Performing a Cure for Schizophrenia,” 224.
+
 30  Doroshow, “Performing a Cure for Schizophrenia,” 237.
+
 31  Doroshow, “Performing a Cure for Schizophrenia,” 214.
+
 32  Bernice Scharmer, “Insulin Shock Therapy,” The American Journal of Nursing 41, no. 10 (1941): 1156.
+
 33  Braun and Gilmore, “Advances in Insulin Coma Therapy,” 1627. 
+
 34  “Low Blood Sugar (Hypoglycemia),” NHS Conditions, August 3, 2023, https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/#:~:text=Symptoms%20of%20low%20blood%20sugar&text=feeling%20hungry,sweating.
+
 35  Douaae Bouyaknouden, Teja N. Peddada, Nidhi Ravishankar, et al, “Neurological Prognostication After Hypoglycemic Coma: Role of Clinical and EEG Findings,” Neurocritical Care 37 (April 2022): 274.
+
 36  Frank, “Psychiatry’s Unholy Trinity,” 27.
+
 37  Wortis and Roberts, “Insulin Shock Treatment in the Psychoses,” 496.
+
 38  Scharmer, “Insulin Shock Therapy,” 1154.
+
 39  Scharmer, ”Insulin Shock Therapy,” 1155.
+
 40  David R. Owens, Louis Monnier, Antonio Ceriello, and Geremia B. Bolli, “Insulin Centennial: Milestones Influencing the Development of Insulin Preparations since 1922.” Diabetes, Obesity & Metabolism 24, no. 1 (2022): 33.
+
 41  James S. McGregor and R. A. Sandison, “Insulin Treatment Of Schizophrenia In Wartime,” The British Medical Journal 2, no. 4157 (1940): 310, 312.  
+
 42  John Patrick Swann, “INSULIN: A Case Study in the Emergence Of Collaborative Pharmacomedical Research.” Pharmacy in History 28, no. 2 (1986): 65.
+
 43  Swann, “INSULIN,” 65-68. 
+
 44  "The Price Reductions on Iletin (Insulin, Lilly)," The American Journal of the Medical Sciences (1827-1924) 168, no. 2 (1924): 1.
+
 45  "Another Price Reduction: Iletin (Insulin, Lilly) Effective November 1st, 1924," The American Journal of the Medical Sciences (1827-1924) 168, no. 6 (1924): 1.
 Adjusting for inflation, these costs equate to roughly $9.48 and $29.37 respectively in 2025. 
+
 46  Swann, “INSULIN,” 73.
+
 47  “History and Heritage,” GSK (GlaxoSmithKline), accessed December 7, 2025, https://www.gsk.com/en-gb/company/history-and-heritage/.
+
 48  Swann, “INSULIN,” 72.
+
 49  Jeffrey A. Singer and Michael F. Cannon, Drug Reformation: End Government’s Power to Require Prescriptions (Washington, D.C.: Cato Institute, 2020), 11.
+
 50  Anders Olson, Reed F. Beall, Ryan P. Knox, Sean S. Tu, Aaron S. Kesselheim, and William B. Feldman, “Patents and Regulatory Exclusivities on FDA-Approved Insulin Products: A Longitudinal Database Study, 1986–2019.” PLoS Medicine 20, no. 11 (2023): 1-2.
 
